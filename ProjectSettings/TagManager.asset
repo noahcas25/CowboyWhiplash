@@ -11,6 +11,7 @@ TagManager:
   - Level
   - Camera
   - Dog
+  - PlayerTag
   layers:
   - Default
   - TransparentFX
